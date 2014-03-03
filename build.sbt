@@ -3,6 +3,7 @@ import AssemblyKeys._
 
 assemblySettings
 
+
 jarName in assembly := "spray-example.jar"
 
 organization  := "net.maeph"
