@@ -1,4 +1,6 @@
-organization  := "com.example"
+import spray.revolver.RevolverPlugin.Revolver
+
+organization  := "net.maeph"
 
 version       := "0.1"
 
